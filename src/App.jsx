@@ -122,7 +122,7 @@ export default function App() {
         </h1>
         
         <h2 className="hero-element text-2xl md:text-4xl font-serif italic text-text/80 text-center mb-10">
-          Entrepreneur et Créateur de Contenu
+          Créateur de contenu et motivateur
         </h2>
 
         <div className="hero-element flex flex-wrap justify-center gap-4 md:gap-8 text-sm md:text-base font-mono text-accent/90 mb-12">
